@@ -1,0 +1,4 @@
+com\spring\boot\mini\jsp\ApplicationInit.class
+com\spring\boot\mini\jsp\service\MobileService.class
+com\spring\boot\mini\jsp\model\Mobile.class
+com\spring\boot\mini\jsp\rest\MobileController.class
